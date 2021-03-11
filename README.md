@@ -5,7 +5,7 @@
 
 
 
-<h6> Author : RKT </6>
+<h6> Author : RKT </h6>
 
 Onionnux is a onionsite(DEEPNET/DARKNET) tool.Its build on python program(script).It can help to idenitfy onionsite is active or onionsite server name.
 
