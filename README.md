@@ -15,17 +15,20 @@ Onionnux is a onionsite(DEEPNET/DARKNET) tool.Its build on python program(script
 + sudo apt install tor
 + sudo pip install -r requirements.txt
 
-### Terminal Command ###
-
-+ git clone https://github.com/r3k4t/onionnux.git
-+ cd onionnux
-+ sudo python onionnux.py
 
 ### Tor Network[Start] ###
 
 + sudo service tor start
 
 ![Screenshot at 2021-03-11 09-23-15](https://user-images.githubusercontent.com/69615463/110735201-7e6e8200-8253-11eb-8299-831674114143.png)
+
+
+### Terminal Command ###
+
++ git clone https://github.com/r3k4t/onionnux.git
++ cd onionnux
++ sudo python onionnux.py
+
 
 ### Example : ###
 
