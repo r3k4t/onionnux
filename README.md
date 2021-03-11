@@ -26,7 +26,9 @@ Onionnux is a onionsite(DEEPNET/DARKNET) tool.Its build on python program(script
 2.sudo pip install -r requirements.txt
 <h6>CentOs</h6>
 1.sudo dnf install tor
+<br>
 or
+<br>
 1.sudo yum install tor
 <br>
 2.sudo pip install -r requirements.txt
