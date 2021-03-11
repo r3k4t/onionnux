@@ -1,7 +1,7 @@
 [![python](https://img.shields.io/badge/Program-Python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
 [![OS](https://img.shields.io/badge/Tested%20On-Android-brightgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 
-<h2> OnionNux </h2>
+# OnionNux 
 
 ![PSX_20210311_100001](https://user-images.githubusercontent.com/69615463/110735751-9692d100-8254-11eb-92c6-0fd3276ee6ca.jpg)
 
