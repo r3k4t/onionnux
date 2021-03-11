@@ -18,9 +18,6 @@ sudo pacman -S tor
  yum install tor
 <h6>CentOs Command</h6>
 + dnf install tor
-
-or
-
 + yum install tor
 
 
