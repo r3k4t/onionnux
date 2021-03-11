@@ -19,8 +19,6 @@ sudo pacman -S tor
 <h6>CentOs Command</h6>
 + dnf install tor
 + yum install tor
-
-
 + sudo apt install tor
 + sudo pip install -r requirements.txt
 
